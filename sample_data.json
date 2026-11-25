@@ -1,0 +1,102 @@
+{
+  "courses": [
+    {
+      "id": "CSE501",
+      "subject": "AI",
+      "group": "CSE-5A",
+      "students": 45
+    },
+    {
+      "id": "CSE502",
+      "subject": "DBMS",
+      "group": "CSE-5A",
+      "students": 45
+    },
+    {
+      "id": "CSE503",
+      "subject": "Networks",
+      "group": "CSE-5A",
+      "students": 45
+    },
+    {
+      "id": "CSE504",
+      "subject": "AI",
+      "group": "CSE-5B",
+      "students": 38
+    },
+    {
+      "id": "CSE505",
+      "subject": "DBMS",
+      "group": "CSE-5B",
+      "students": 38
+    },
+    {
+      "id": "CSE506",
+      "subject": "Networks",
+      "group": "CSE-5B",
+      "students": 38
+    }
+  ],
+  "faculty": [
+    {
+      "id": "F1",
+      "name": "Faculty A",
+      "subjects": [
+        "AI"
+      ]
+    },
+    {
+      "id": "F2",
+      "name": "Faculty B",
+      "subjects": [
+        "DBMS"
+      ]
+    },
+    {
+      "id": "F3",
+      "name": "Faculty C",
+      "subjects": [
+        "Networks"
+      ]
+    },
+    {
+      "id": "F4",
+      "name": "Faculty D",
+      "subjects": [
+        "AI",
+        "DBMS"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "R1",
+      "name": "Room 101",
+      "capacity": 50
+    },
+    {
+      "id": "R2",
+      "name": "Room 102",
+      "capacity": 40
+    },
+    {
+      "id": "R3",
+      "name": "Lab 1",
+      "capacity": 60
+    }
+  ],
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "periods": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}
